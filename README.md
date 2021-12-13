@@ -1,5 +1,8 @@
 # 2021_ARIN702
 
+실험 방법
+-> sh run.sh
+
 정량적 실험 결과
 
 <img width="698" alt="result1" src="https://user-images.githubusercontent.com/23431157/145762527-689ee05d-3692-4e18-be63-88f3d9645259.png">
